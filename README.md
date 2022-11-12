@@ -1,1 +1,1 @@
-# Tools-Techniques-for-Large-Scale-Data-Analytics
+# Tools Techniques for Large Scale Data Analytics
